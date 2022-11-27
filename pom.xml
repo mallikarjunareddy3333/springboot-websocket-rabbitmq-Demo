@@ -7,10 +7,10 @@
 		<version>3.0.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.arjun.rabbitmq</groupId>
-	<artifactId>rabbitmqDemo</artifactId>
+	<groupId>com.arjun.ws-rabbitmq</groupId>
+	<artifactId>springboot-websocket-rabbitmq-Demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>rabbitmqDemo</name>
+	<name>springboot-websocket-rabbitmq-Demo</name>
 	<description>Demo project for Spring Boot RabbitMQ</description>
 	<properties>
 		<java.version>17</java.version>
