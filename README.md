@@ -10,3 +10,6 @@
 - WS URL: ws://localhost:9090/user
 - App URL: http://localhost:9090/
 
+# References:
+- https://www.javaguides.net/2022/07/spring-boot-rabbitmq-producer-and-consumer-example.html
+- https://medium.com/@rameez.s.shaikh/build-a-chat-application-using-spring-boot-websocket-rabbitmq-2b82c142f85a
