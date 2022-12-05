@@ -24,3 +24,17 @@
 - https://medium.com/@rameez.s.shaikh/build-a-chat-application-using-spring-boot-websocket-rabbitmq-2b82c142f85a
 
 - https://code.imaginesoftware.it/rabbitmq-with-docker-on-windows-in-30-minutes-172e88bb0808
+
+Websocket Client for Java:
+- https://stackoverflow.com/questions/21194294/java-websocket-client-without-a-browser
+- https://www.baeldung.com/websockets-api-java-spring-client
+- https://github.com/eugenp/tutorials/tree/master/spring-boot-modules/spring-boot-client/src/main
+
+Distributed RabbitMQ:
+- https://www.rabbitmq.com/distributed.html
+
+Redis cluster:
+- https://redis.io/docs/management/scaling/#:~:text=Redis%20Cluster%20provides%20a%20way,or%20are%20unable%20to%20communicate.
+- https://www.youtube.com/watch?v=GEg7s3i6Jak
+
+Docker to run multiple instances:
